@@ -1,6 +1,6 @@
-# React + BaylonJs + Map box
+# React + BaylonJs
 
-Capture a Map and put it on a laptop
+A better outline pass / highlight layer for babylonjs
 
 ## Setup
 
