@@ -7,7 +7,7 @@ Capture a Map and put it on a laptop
 Clone this repository
 
 ```sh
-git clone https://github.com/Heaust-ops/babylon_map
+git clone https://github.com/Heaust-ops/babylon_outline
 ```
 
 Install Dependencies
@@ -26,4 +26,4 @@ and you can try the project on `localhost:5173`
 
 ## Demo
 
-Alternatively, you can try it out at [https://babylonmap.netlify.app/](https://babylonmap.netlify.app/)
+Alternatively, you can try it out at [https://babylonoutline.netlify.app](https://babylonoutline.netlify.app)
